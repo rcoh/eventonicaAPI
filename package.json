@@ -1,0 +1,19 @@
+{
+  "name": "eventonicaapi",
+  "version": "1.0.0",
+  "description": "test event api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dena",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "inquirer": "^6.2.2",
+    "pg": "^7.8.1",
+    "request": "^2.88.0"
+  }
+}
